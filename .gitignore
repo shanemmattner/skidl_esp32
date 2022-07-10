@@ -1,2 +1,3 @@
 __main___lib_sklib.py
-.log
+*.log
+*.zip
